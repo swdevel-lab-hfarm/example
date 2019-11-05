@@ -1,2 +1,2 @@
 # example
-an example repo 2
+an example repo 1
